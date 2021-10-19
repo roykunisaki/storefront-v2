@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h4 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.text {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#navList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FF3b3b;
+}
+
+#navItems {
+  float: left;
+  text-align: bottom;
+}
+
+#navIcons {
+  float: right;
+}
+
+#navLinks {
+  display: block;
+  color: white;
+  text-align: bottom;
+
+  padding: 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+#bounciesLogo {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+#bounciesHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60px;
+  width: 100%;
+  background-color: #FF3b3b;
+  padding: 3px;
+  border: 1px;
+  font-family: "Helvetica";
+  font-size: 40px;
+  font-weight: 550;
+  font-color: white;
+  color: #FFFFFF;
+  align: bottom;
+}
+
+#discountBanner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  width: 100%;
+  background-color: #F5DD42;
+  padding: 10px;
+  border: 0px;
+  font-family: "Helvetica";
+  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+}
+
+.cart { <br />
+   border-bottom: 100px solid red;<br />
+   border-left: 25px solid transparent;<br />
+   border-right: 25px solid transparent;<br />
+   height: 0;<br />
+   width: 100px;<br />
+ }<br />
+
+ .trapezoid {
+ 	border-bottom: 50px solid #555;
+ 	border-left: 25px solid transparent;
+ 	border-right: 25px solid transparent;
+ 	height: 0;
+ 	width: 125px;
+ }
