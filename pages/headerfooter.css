@@ -9,31 +9,6 @@
   font-family: "Helvetica";
 }
 
-h1 {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-
-  font-family: "Helvetica";
-  font-size: 24px;
-  font-weight: bold;
-}
-
-p {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-  font-family: "Helvetica";
-  font-size: 18px;
-  font-weight: normal;
-}
-
 #navList {
   list-style-type: none;
   margin: 0;
@@ -198,45 +173,3 @@ p {
   font-weight: bold;
   font-size: 16px;
 }
-
-#defaultform {
-  padding: 12px 20px;
-  margin: 8px 0;
-  border: 1px;
-  outline: 1;
-  background: #DDDDDD;
-  width: 100%;
-  box-sizing: border-box;
-  border-color: #555555;
- }
-
- #defaultform {
-   padding: 12px 20px;
-   margin: 8px 0;
-   border: 1px;
-   outline: 1;
-   background: #DDDDDD;
-   width: 100%;
-   box-sizing: border-box;
-   border-color: #555555;
-  }
-
-
-/** Shapes
-.cart { <br />
-   border-bottom: 100px solid red;<br />
-   border-left: 25px solid transparent;<br />
-   border-right: 25px solid transparent;<br />
-   height: 0;<br />
-   width: 100px;<br />
- }<br />
-
- .trapezoid {
- 	border-bottom: 50px solid #555;
- 	border-left: 25px solid transparent;
- 	border-right: 25px solid transparent;
- 	height: 0;
- 	width: 125px;
- }
-
- */
