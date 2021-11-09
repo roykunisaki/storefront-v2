@@ -17,7 +17,7 @@
   background-color: #FF3b3b;
 }
 
-#navItems {
+#navItems { /*li */
   float: left;
   text-align: bottom;
 }
@@ -26,14 +26,14 @@
   float: right;
 }
 
-#navLinks {
+#navLinks { /*anchor tags */
   display: block;
   color: white;
   text-align: bottom;
-
   padding: 16px;
   text-decoration: none;
   font-size: 30px;
+
 }
 
 #bounciesLogo {
